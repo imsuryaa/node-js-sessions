@@ -1,0 +1,22 @@
+{
+  "name": "codebase",
+  "version": "1.0.0",
+  "description": "nodejs bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryatejaj97/node-js-sessions.git"
+  },
+  "author": "surya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryatejaj97/node-js-sessions/issues"
+  },
+  "homepage": "https://github.com/suryatejaj97/node-js-sessions#readme",
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
+}
